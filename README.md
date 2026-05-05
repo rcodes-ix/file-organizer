@@ -31,23 +31,23 @@ A Python-based automation tool that organizes files in a selected directory by s
 ## Installation & Usage
 
 Clone the repository:
-git clone https://github.com/yourusername/file-organizer.git
+```git clone https://github.com/yourusername/file-organizer.git```
 
 Navigate to the folder:
-cd file-organizer
+```cd file-organizer```
 
 Run the script:
-python organizer.py
+```python organizer.py```
 
 When prompted, enter the folder path:
-Enter folder path: C:\Users\YourName\Downloads
+Enter folder path: ```C:\Users\YourName\Downloads```
 
 ---
 
 ## Project Structure
 
-organizer.py   → Main file organization logic
-README.md      → Project documentation
+```organizer.py```   → Main file organization logic
+```README.md```     → Project documentation
 
 ---
 
