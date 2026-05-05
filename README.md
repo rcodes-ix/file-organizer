@@ -31,7 +31,8 @@ A Python-based automation tool that organizes files in a selected directory by s
 ## Installation & Usage
 
 Clone the repository:
-```git clone https://github.com/yourusername/file-organizer.git```
+
+```git clone https://github.com/rcodes-ix/file-organizer.git```
 
 Navigate to the folder:
 ```cd file-organizer```
