@@ -47,6 +47,7 @@ Enter folder path: ```C:\Users\YourName\Downloads```
 ## Project Structure
 
 ```organizer.py```   → Main file organization logic
+
 ```README.md```     → Project documentation
 
 ---
